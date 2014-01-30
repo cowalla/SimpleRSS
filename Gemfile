@@ -9,6 +9,7 @@ gem 'pg'
 gem 'simple-rss'
 require 'open-uri'
 gem 'backbone-on-rails'
+gem 'rename'
 
 # Gems used only for assets and not required
 # in production environments by default.
